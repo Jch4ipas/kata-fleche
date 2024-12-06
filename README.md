@@ -85,6 +85,7 @@ afficher un *message d'erreur*.
 ## Contributeurs (langages par ordre alphabétique)
 
 * [bash](./arrow.sh) → [@smussie](https://github.com/smussie)
+* [C#](./arrow.cs) → [@Jch4ipas](https://github.com/Jch4ipas)
 * [clojure](./arrow.clj) → [@loichu](https://github.com/loichu) + [@epfl-dojo](https://github.com/epfl-dojo)
 * [dart](./arrow.dart) → [@epfl-dojo](https://github.com/epfl-dojo)
 * [go](./arrow.go) → [@gcmalloc](https://github.com/gcmalloc)
